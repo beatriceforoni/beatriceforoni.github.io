@@ -1,9 +1,14 @@
 github_users:
-  - beatriceforoni
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - beatriceforoni/andistr
-  - QuantileRegressionLab/CQEHMM
-  - QuantileRegressionLab/PM2.5-Italy-dataset
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
