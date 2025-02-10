@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-**Disclaimer:**: This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
+**Disclaimer:** This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
 
 <!-- _pages/publications.md -->
 
