@@ -10,9 +10,9 @@ editor_options:
     wrap: 72
 ---
 
-### **EUROPEAN STATISTICAL SYSTEM AND DATA PRODUCTION MODEL**
+##### **EUROPEAN STATISTICAL SYSTEM AND DATA PRODUCTION MODEL**
 
-Academic year: 2024/2025
+##### Academic year: 2024/2025
 
 ECTS credits: 6
 
