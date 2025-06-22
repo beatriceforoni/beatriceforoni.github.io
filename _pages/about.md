@@ -2,16 +2,16 @@
 layout: about
 title: about me
 permalink: /
-subtitle: <a href='https://www.unipi.it/'>Postodoctoral Researcher at University of Pisa</a>.
+subtitle: <a href='https://www.unipi.it/'>Postodoctoral Researcher at Sapienza University of Rome</a>.
 
 profile:
   align: right
   image: foto_cv.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Department of Economics and Management</p>
-    <p>via Cosimo Ridolfi 10</p>
-    <p>University of Pisa</p>
+    <p>MEMOTEF Department</p>
+    <p>via del Castro Laurenziano 9, Rome</p>
+    <p>Sapienza University of Rome</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
