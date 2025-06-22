@@ -27,4 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I obtained my PhD in Models for Economics and Finance in 2023 at the <a href='https://www.uniroma1.it/'>Sapienza University of Rome</a> (Italy) with a thesis on Hidden Markov models for time series data analysis. I am one of the members of the <a href='https://quantileregressionlab.github.io/'> Quantile Regression Lab</a> and I collaborate with national and international institutions, including the  <a href='https://www.mcgill.ca//'>McGill University</a> (Canada), and the <a href='https://www.uniroma1.it'>Sapienza University of Rome</a> (Italy). From 2023 to 2024 I was a postdoctoral researcher in statistics at the MEMOTEF Department of Sapienza University of Rome (Italy). As of April, I am a postdoctoral researcher at the Economics and Management Department of University of Pisa (Italy). My research interests lie in quantile regression, Hidden Markov models, random forest and graphical models with applications to time series and correlated data.
+I obtained my PhD in Models for Economics and Finance in 2023 at the
+<a href='https://www.uniroma1.it/'>Sapienza University of Rome</a>
+(Italy) with a thesis on Hidden Markov models for time series data
+analysis. I am one of the members of the <a
+href='https://quantileregressionlab.github.io/'> Quantile Regression
+Lab</a> and I collaborate with national and international
+institutions, including the  <a href='https://www.mcgill.ca//'>McGill
+University</a> (Canada), and the <a
+href='https://www.uniroma1.it'>Sapienza University of Rome</a>
+(Italy). From 2023 to 2024 I was a postdoctoral researcher in
+statistics at the MEMOTEF Department of Sapienza University of Rome
+(Italy).Right now, I am a postdoctoral researcher at the MEMOTEF
+Department of Sapienza University of Rome (Italy). My research interests lie in quantile regression, Hidden Markov models, random forest and graphical models with applications to time series and correlated data.
