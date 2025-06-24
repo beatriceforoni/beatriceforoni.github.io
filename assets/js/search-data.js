@@ -392,7 +392,7 @@ ninja.data = [{
     },{id: "news-i-will-participate-at-the-contributed-session-of-the-conference-statistical-methods-for-measuring-the-sustainability-ies-2025",
           title: 'I will participate at the contributed session of the conference ‘Statistical methods for...',
           description: "",
-          section: "News",},{id: "news-i-will-be-chairing-the-session-recent-advances-in-hidden-markov-models-at-the-19th-international-cmstatistics-2025-conference-hosted-by-king-s-college-london",
+          section: "News",},{id: "news-i-will-be-chairing-the-session-recent-advances-in-hidden-markov-models-at-the-19th-international-cmstatistics-2025-conference-hosted-by-birkbeck-university-of-london",
           title: 'I will be chairing the session “Recent advances in hidden Markov models” at...',
           description: "",
           section: "News",},{id: "projects-project-1",
