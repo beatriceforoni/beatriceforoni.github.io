@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be chairing the session "Recent advances in hidden Markov models" at the 19th international CMStatistics 2025 conference hosted by King’s College London.
+I will be chairing the session "Recent advances in hidden Markov models" at the 19th international CMStatistics 2025 conference hosted by Birkbeck University of London.
