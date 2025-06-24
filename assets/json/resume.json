@@ -3,14 +3,14 @@
     "name": "Beatrice Foroni",
     "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "beatrice.foroni@ec.unipi.it",
+    "email": "beatrice.foroni@uniroma1.it",
     "phone": "",
     "url": "",
     "lab page": "<a href='https://quantileregressionlab.github.io/'>quantileregressionlab.github.io</a>",
     "ORCID": "0000-0002-4683-2879",
     "summary": "",
     "location": {
-      "address": "Via Cosimo Ridolfi, 10",
+      "address": "Via del Castro Laurenziano, 9",
       "postalCode": "",
       "city": "Rome",
       "countryCode": "IT",
@@ -24,7 +24,16 @@
       }
     ]
   },
-  "work": [
+    "work": [
+  {
+      "name": " Sapienza University of Rome",
+      "position": "Postdoctoral Researcher",
+      "url": "",
+      "startDate": "2025-04-03",
+      "endDate": "2026-04-02",
+      "summary": "",
+      "highlights": ""
+    },
     {
       "name": "University of Pisa",
       "position": "Postdoctoral Researcher",
