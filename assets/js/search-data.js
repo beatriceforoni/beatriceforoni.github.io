@@ -389,8 +389,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-will-participate-at-the-invited-session-statistical-methods-for-measuring-the-sustainability-at-the-ies-2025",
-          title: 'I will participate at the invited session ‘Statistical methods for measuring the sustainability’...',
+    },{id: "news-i-will-participate-at-the-contributed-session-of-the-conference-statistical-methods-for-measuring-the-sustainability-ies-2025",
+          title: 'I will participate at the contributed session of the conference ‘Statistical methods for...',
           description: "",
           section: "News",},{id: "news-i-will-be-chairing-a-session-tba-at-the-19th-international-cmstatistics-2025-conference-hosted-by-king-s-college-london",
           title: 'I will be chairing a session (TBA) at the 19th international CMStatistics 2025...',
