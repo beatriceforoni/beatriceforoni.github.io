@@ -356,17 +356,6 @@ ninja.data = [{
           window.location.href = "/blog/2015/math/";
         
       },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
-        
-      },
     },{id: "post-a-post-with-images",
       
         title: "a post with images",
@@ -391,6 +380,12 @@ ninja.data = [{
       },
     },{id: "news-i-will-participate-at-the-contributed-session-of-the-conference-statistical-methods-for-measuring-the-sustainability-ies-2025",
           title: 'I will participate at the contributed session of the conference ‘Statistical methods for...',
+          description: "",
+          section: "News",},{id: "news-our-paper-with-luca-merlo-lea-petrella-and-nicola-salvati-hidden-markov-quantile-graphical-models-has-been-published-on-the-journal-of-computational-and-graphical-statistics",
+          title: 'Our paper with Luca Merlo, Lea Petrella and Nicola salvati, “Hidden Markov quantile...',
+          description: "",
+          section: "News",},{id: "news-our-paper-with-luca-merlo-and-lea-petrella-hidden-markov-graphical-models-with-state-dependent-generalized-hyperbolic-distributions-has-been-published-on-the-canadian-journal-of-statistics",
+          title: 'Our paper with Luca Merlo and Lea Petrella, “Hidden Markov graphical models with...',
           description: "",
           section: "News",},{id: "news-i-will-be-chairing-the-session-recent-advances-in-hidden-markov-models-at-the-19th-international-cmstatistics-2025-conference-hosted-by-birkbeck-university-of-london",
           title: 'I will be chairing the session “Recent advances in hidden Markov models” at...',
