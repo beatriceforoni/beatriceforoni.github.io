@@ -13,17 +13,11 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-# {% include bib_search.liquid %}
-# 
-# <div class="publications">
-# 
-# {% bibliography -f {{ site.scholar.bibliography }} %}
-# 
-# </div>
+{% include bib_search.liquid %}
 
-<!-- _pages/publications.md -->
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
