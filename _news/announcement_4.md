@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper with Luca Merlo and Lea Petrella, “Hidden Markov graphical models with state-dependent generalized hyperbolic distributions” has been published on the Canadian Journal of Statistics. Check it out
-[here](https://onlinelibrary.wiley.com/doi/10.1002/cjs.70030).
+Our paper with Luca Merlo and Lea Petrella, “Hidden Markov graphical models with state-dependent generalized hyperbolic distributions” has been published on the Canadian Journal of Statistics.
+Check it out <a href="https://onlinelibrary.wiley.com/doi/10.1002/cjs.70030">here</a>.
