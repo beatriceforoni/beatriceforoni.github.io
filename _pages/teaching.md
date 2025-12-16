@@ -20,8 +20,8 @@ Course: Economics, University of Pisa
 
 Period: First semester
 
-E-learning link:
-[E-learning](https://elearning.ec.unipi.it/course/view.php?id=470)
+<!-- E-learning link:
+[E-learning](https://elearning.ec.unipi.it/course/view.php?id=470) -->
 
 Programme:
 
